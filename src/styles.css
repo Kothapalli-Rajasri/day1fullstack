@@ -1,0 +1,16 @@
+.rev {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.rev img{
+    height: 30px;
+    border-radius: 50px;
+    float: left;
+    padding-left: 7px;
+    
+}
+.name{
+    padding-left: 50px;
+    padding-top: 2px;
+}

@@ -1,16 +1,18 @@
-
+import './styles.css';
 function R1()
 {
  return(
-    <div>
+    <div class="rev">
         <ul type="none">
             <img src="th.jpeg"/>
-            <li>Reviewrs name</li>
+            
+            <li><h3 class="name">Reviewrs name</h3></li>
+        
             <li>this product is good</li>
         </ul>
         <ul type="none">
         <img src="th.jpeg"/>
-            <li>Reviewrs name</li>
+        <li><h3 class="name">Reviewrs name</h3></li>
             <li>this product is bad </li>
         </ul>
     </div>
