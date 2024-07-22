@@ -11,7 +11,7 @@ function R1()
         <ul type="none">
         <img src="th.jpeg"/>
             <li>Reviewrs name</li>
-            <li>this product is bad</li>
+            <li>this product is bad </li>
         </ul>
     </div>
  );
